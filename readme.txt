@@ -1,1 +1,2 @@
-终于解决了ipad上没法看代码的问题，隆重推荐Git首选代码托管：GitHub，首先在GitHub建一个项目工程，然后通过GitHub客户端上传本地工程目录到GitHub托管服务器，然后在ipad安装git客户端，就可以方便看代码。
+终于解决了ipad上没法看代码的问题，隆重推荐Git首选代码托管：GitHub，首先在GitHub建一个项目工程，然后通过GitHub客户端上传本地工程目录到GitHub托管服务器，
+然后在ipad安装git客户端，就可以方便看代码。
